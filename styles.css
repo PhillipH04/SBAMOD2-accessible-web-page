@@ -1,0 +1,51 @@
+body {
+    /* background-image: url(images/office_space_open.webp); */
+    margin: 0; 
+    padding: 0;
+    background-color: aquamarine;
+}
+
+    a {
+    color: inherit;
+    text-decoration: none;
+    }
+
+    ul {
+    list-style-type: none;
+    }
+
+    /* .card-header {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}*/
+
+   .material-icons {
+    font-size: 1.5rem;
+}
+
+    /* navigation bar */
+   .card-navbar { 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 500px;
+    margin: 0 auto;
+    }
+
+   .card-logo {
+    display: flex;
+   /* flex-direction: row; */
+    width: 50px;
+    align-items: center;
+   }
+
+   /* .card-hero-image {
+     background-image: url();
+     background-color: #cccccc;
+     height: 500px;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+     position: relative;
+}    */
+    
